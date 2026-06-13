@@ -6,7 +6,7 @@ NPC_name = f"[{NPC_name_change}]"
 print("[!] The NPC is now named:", NPC_name)
 print(f"{NPC_name} Hello again! it seems that i have no friends may you help?")
 NPC2_name_make = input("[!] Come up with your own name for the npc! Here: ")
-NPC2_name = f"[{NPC_name_change}]"
+NPC2_name = f"[{NPC_name_make}]"
 print("[!] The 2nd NPC is now named:", NPC2_name)
 print(f"{NPC_name} Thank you so much! Now i have my friend", NPC2_name)
 #now thats pretty cool
